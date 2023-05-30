@@ -1,0 +1,74 @@
+[
+    {
+        "id": 2272683,
+        "name": "Chaitan Iyengar",
+        "email": "iyengar_chaitan@bednar.test",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 2272682,
+        "name": "Gouranga Johar",
+        "email": "gouranga_johar@halvorson.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 2272681,
+        "name": "Dharmaketu Iyengar DVM",
+        "email": "dharmaketu_iyengar_dvm@keeling.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 2272680,
+        "name": "Shiv Pothuvaal",
+        "email": "pothuvaal_shiv@okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 2272679,
+        "name": "Deb Mehrotra",
+        "email": "deb_mehrotra@flatley.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 2272678,
+        "name": "Miss Ekaling Ganaka",
+        "email": "ekaling_ganaka_miss@harris.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 2272676,
+        "name": "Msgr. Manikya Kocchar",
+        "email": "manikya_msgr_kocchar@borer.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 2272674,
+        "name": "Achyut Sharma II",
+        "email": "achyut_sharma_ii@jones.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 2272671,
+        "name": "Atmananda Pandey",
+        "email": "pandey_atmananda@howe-buckridge.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 2272670,
+        "name": "Ms. Chaitan Devar",
+        "email": "devar_ms_chaitan@wiza.example",
+        "gender": "female",
+        "status": "active"
+    }
+]
+
+
